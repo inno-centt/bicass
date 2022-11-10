@@ -1,0 +1,368 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu_bar{
+    width: 100%;
+    height: 70px;
+    padding: 10px 100px;
+    display: flex;
+    align-items: center;
+    padding: 0px 120px;
+    gap: 4rem;
+}
+.logo h1{
+    font-size: 40px;
+    color: #54bd95;
+}
+.menu_bar ul{
+    display: flex;
+    padding: 0px 100px;
+}
+.menu_bar ul li{
+    padding: 0px 25px;
+    list-style: none;
+    font-size: 18px;
+}
+.menu_bar ul li a{
+    text-decoration: none;
+    color: grey;
+}
+.menu_bar p a{
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+}
+button{
+    padding: 2px 9px;
+    border-radius: 10px;
+    background-color: #54bd95;
+    border: 1px solid transparent;
+    color: #ffff;
+}
+.writeup{
+    font-size: 25px;
+    padding: 35px 150px;
+}
+.writeup img{
+    padding: 9px 0;
+    height: 40px;
+}
+.writeup p{
+    font-size: 18px;
+    padding: 20px 0px;
+}
+.modafucker{
+    display: flex;
+}
+.mugu img{
+    height: 500px;
+    padding: 40px 160px;
+}
+.atm img{
+    zoom: 50%;
+    position: absolute;
+    top: 700px;
+    right: 200px;
+}
+.john{
+    display: flex;
+}
+.john button{
+    padding: 5px 20px;
+}
+
+.john p{
+    padding: 10px 20px;
+}
+.Anu h1{
+    padding: 10px 350px;
+    font-size: 35px;
+}
+.doings{
+    display: flex;
+}
+.doings h1{
+    padding: 20px 70px;
+    font-size: 30px;
+    color: gray;
+}
+.time{
+    padding: 100px 100px;
+    line-height: 26px;
+}
+.time h2{
+    font-size: 40px;
+    line-height: 40px;
+}
+.time p{
+    padding: 20px 0px;
+    font-size: 15px;
+    color: grey;
+}
+.jos{
+    display: flex;
+    gap: 2rem;
+    padding-left: 50px;
+}
+.fa-star{
+    color: yellow;
+    font-size: 20px;
+    
+}
+.fa-star:hover{
+    font-size: 25px;
+    color: #4587f4;
+    transition: 2s ease-in-out;
+    cursor: pointer;
+}
+.fara h3{
+    color: grey;
+}
+.far h3{
+    color: grey;
+}
+.phone{
+    display: flex;
+    background-color: #f9f8fe;
+}
+.new{
+    padding: 100px 100px 30px 100px;
+}
+.new img{
+    position: absolute;
+    left: 750px;
+}
+.new h1{
+    font-size: 30px;
+    padding: 5px 0;
+}
+.new p{
+    color: grey;
+    padding: 10px 0px 20px 0px
+}
+.ola{
+    padding: 0px 100px 30px 100px;
+}
+.ola img{
+    position: absolute;
+    left: 750px;
+}
+.ola p{
+    color: grey;
+    padding: 10px 0px 20px 0px ;
+}
+.musa{
+    padding: 0px 100px;
+}
+.musa img{
+    position: absolute;
+    left: 750px;
+}
+.musa p{
+    color: grey;
+    padding: 10px 0px 20px 0px
+}
+.mix{
+    display: flex;
+    gap: 8rem;
+    padding: 50px 150px;
+}
+.beg h1{
+    font-size: 35px;
+}
+.ben p{
+    color: grey;
+}
+.boy button{
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+.boy button a{
+    text-decoration: none;
+}
+.ray{
+    display: flex;
+    gap: 3rem;
+    padding: 0px 150px;
+}
+.go img{
+    height: 300px;
+}
+.go h1{
+    font-size: 23px;
+    padding: 10px 0px;
+}
+.go p{
+    color: grey;
+}
+.come img{
+    height: 300px;
+}
+.come h1{
+    font-size: 23px;
+    padding: 10px 0px;
+}
+.come p{
+    color: grey;
+}
+.find img{
+    height: 300px;
+}
+.find h1{
+    font-size: 23px;
+    padding: 10px 0px;
+}
+.find p{
+    color: grey;
+}
+.ken{
+    padding: 50px 150px;
+}
+.sense h1{
+    font-size: 30px;
+    padding: 0px 0px 25px 0px;
+}
+ul li{
+    line-height: 50px;
+    list-style: circle;
+}
+.udo{
+    display: flex;
+}
+.rat img{
+    height: 400px;
+    padding: 40px 150px;
+}
+.ten img{
+    position: absolute;
+    right: 540px;
+    bottom: -1300px;
+    height: 70px;
+}
+.six img{
+    position: absolute;
+    left: 600px;
+    height: 70px;
+    bottom: -1530px;
+}
+.two img{
+    position: absolute;
+    left: 1000px;
+    bottom: -1300px;
+}
+.Gun{
+    padding: 0px 60px;
+}
+.amaze h1 {
+    padding: 30px 500px 0px;
+}  
+.nine h1{
+    padding: 0px 450px;
+}
+.rest p{
+    padding: 10px 400px;
+}
+.eight h3{
+    padding: 10px 500px;
+}
+.eight button{
+    padding: 5px 16px;
+}
+.yan{
+    display: flex;
+}
+.greg{
+    padding: 50px 80px;
+}
+.tes h2{
+    padding: 20px 80px;
+    font-size: 25px;
+    text-align: center;
+}
+.value p{
+    color: grey;
+    padding: 0px 50px;
+    text-align: center;
+}
+.ren {
+    padding: 0px 90px;
+    font-size: 20px;
+    text-align: center;
+}
+.palm{
+    padding: 10px 60px;
+    line-height: 30px;
+    background-color: #f9fafb;
+}
+.palm li{
+    padding: 0px 2px;
+}
+.oil{
+    padding: 20px 5px;
+}
+.oil button{
+    padding: 10px 30px;
+    background-color: #ffff;
+    color: #54bd95;
+    font-size: 15px;
+}
+.jose{
+    padding: 60px 0px;
+}
+.azu h2{
+    padding: 10px 40px;
+    font-size: 25px;
+    text-align: center;
+}
+.van p{
+    text-align: center;
+}
+.cord{
+    font-size: 20px;
+    text-align: center;
+}
+.btn{
+    padding: 10px 100px;
+}
+.btn button{
+    padding: 10px 20px;
+}
+.Home{
+    padding: 10px 70px;
+    line-height: 30px;
+}
+.osondu{
+    padding: 10px 120px;
+}
+.osondu button{
+    padding: 10px 30px;
+}
+.chucks{
+    padding: 60px 80px;
+}
+.business h2{
+    padding: 10px 40px;
+    font-size: 25px;
+    text-align: center;
+}
+.join p{
+    text-align: center;
+    color: grey;
+}
+.aria{
+    font-size: 20px;
+    text-align: center;
+}
+.all{
+    padding: 10px 70px;
+    line-height: 30px;
+}
+.Go{
+    padding: 10px 100px;
+}
+.Go button{
+    padding: 8px 30px;
+    font-size: 9px;
+}
